@@ -20,6 +20,9 @@ Project files, including the main MATLAB scripts, Simulink model, and PSO tuning
 ## Acknowledgements
 
  - [Control Tutorials for MATLAB](https://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum&section=SystemModeling)
+ - [MATLAB Official documentation](https://in.mathworks.com/help/matlab/index.html)
+ - [Simulink Official documentation](https://in.mathworks.com/help/simulink/index.html?s_tid=CRUX_lftnav)
+ - [Control Systems - MATLAB & Simulink](https://in.mathworks.com/help/overview/control-systems.html?s_tid=CRUX_lftnav)
 
 ## Authors
 
