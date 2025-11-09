@@ -4,6 +4,8 @@ The Inverted Pendulum (Cart-Pole) system is a fundamental problem in control the
 
 The project starts off by exploring the system's open-loop behavior, highlighting its natural instability and rapid divergence from the equilibrium point. The core of this work lies in implementing a Proportional-Integral-Derivative (PID) controller to achieve stabilization. Crucially, the controller gains are optimally tuned using Particle Swarm Optimization (PSO) algorithm. The subsequent analysis focuses on the closed-loop feedback system performance, demonstrating the effectiveness of the PSO-tuned PID controller in maintaining the pendulum's upright position and regulating the cart's position, thus transforming the mathematically non-linear and unstable system into a stable, practical and controlled mechanism.
 
+This initial release focusses only on generating responses for the open-loop system and feedback system regulated by a PID Controller (which has been tuned using PSO algorithm). Future expansions include comparing the feedback response when more advanced control algorithms (like LQR and SMC etc.) are used to control the system.
+
 ## Diagrams
 
 
